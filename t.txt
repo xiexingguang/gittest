@@ -1,6 +1,3 @@
 frist
-<<<<<<< HEAD
 second
 thrid
-=======
->>>>>>> parent of ff6b2ce... second
